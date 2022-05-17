@@ -1,2 +1,2 @@
-# Desenv.-Web
-Aula quinta-feira (UP) - Prof Geucimar Brilhador
+# proj-topicos
+Repositório para o projeto da matéria de Tópicos Especiais.
